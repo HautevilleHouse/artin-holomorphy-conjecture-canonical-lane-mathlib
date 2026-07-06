@@ -1,0 +1,7 @@
+-- This module is the root of the ArtinHolomorphyConjectureCanonicalLaneLean Lean proof package.
+import ArtinHolomorphyConjectureCanonicalLaneLean.Basic
+import ArtinHolomorphyConjectureCanonicalLaneLean.SourcePackage
+import ArtinHolomorphyConjectureCanonicalLaneLean.SourceDependencies
+import ArtinHolomorphyConjectureCanonicalLaneLean.Formalization
+import ArtinHolomorphyConjectureCanonicalLaneLean.ReviewerBridge
+import ArtinHolomorphyConjectureCanonicalLaneLean.TheoremStatement
